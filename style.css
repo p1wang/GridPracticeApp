@@ -101,7 +101,7 @@ ion-icon {
 .showcase {
     grid-area: showcase;
     min-height: 400px;
-/* background: -webkit-linear-gradient(rgba(20, 20, 20, .5), rgba(20, 20, 20, .3)), url(../img/showcase.jpg);  */
+/* background: -webkit-linear-gradient(rgba(20, 20, 20, .5), rgba(20, 20, 20, .3)), url(./showcase.jpg);  */
     
     background-size: cover;
     background-position: center;
@@ -195,7 +195,7 @@ ion-icon {
 }
 
 .info-img {
-    background: url(../img/pic1.jpg);
+    background: url(./pic1.jpg);
     background-size: cover;
     background-position: center;
     border-radius: var(--radius);
